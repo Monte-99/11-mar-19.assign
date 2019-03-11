@@ -1,0 +1,66 @@
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(248, 248, 248);
+
+}
+ul{
+    align-items: center;
+    position: absolute;
+    left: 200px;
+}
+input{
+    position: relative;
+    left: 500px;
+    top: 0px;
+    height: 25px;
+    background-color: rgb(72, 246, 145);
+    border: 3px solid rebeccapurple;
+    border-radius: 5px ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.div1{
+    position: absolute;
+    left: 80px;
+    top: 30px;
+    background-image: linear-gradient( to right, rgb(138, 148, 241),rgb(111, 62, 246));
+    width: 90%;
+    height: 600px;
+    box-sizing: border-box;
+    border-bottom-right-radius: 250px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div2{
+    padding: 5px;
+    box-sizing: border-box;
+    width: 300px;
+    position: relative;
+    left: 200px;
+    top: 300px;
+    color: white;
+}
+.input2{
+    position: relative;
+    top: 15px;
+    left: 0px;
+    width: 130px;
+    height: 35px;
+    background-color: rgb(72, 246, 145)
+}
+h1{
+    font-size: 22px;
+}
+p{
+    font-size: 12px;
+}
+img{
+    border-radius: 25px 75px;
+    position: relative;
+    left: 750px;
+    width: 400px;
+    height: 500px;
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+}
